@@ -1,4 +1,4 @@
-# EngineGenerativaXadrezPSI3472
+# Engine Generativa de Xadrez PSI3472
 Engine de Xadrez criada por meio de computação Genética como trabalho de PSI3472 da Engenharia Elétrica com Ênfase em Sistemas Eletrônicos da Escola Politécnica na Universidade de São Paulo.
 
 Para testar a engine, somente executar o arquivo engine_joga_contra_usuario. Ela joga 10 vezes. Antes do 1º jogo e entre um jogo e outro, a engine é treinada pelo algoitmo genético desenvolvido.
